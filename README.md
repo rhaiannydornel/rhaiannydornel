@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 👨‍💻 [Rhaianny Dornel] - Desenvolvedor Web e Analista de dados
+## 👨‍💻 - Desenvolvedor Web e Analista de dados
 
 ### Linguagens e Tecnologias:
 
